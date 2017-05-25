@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# madLibs.py - 
+# madLibs.py - Chapter 8
 import re
 
 fObj = open('panda.txt')
